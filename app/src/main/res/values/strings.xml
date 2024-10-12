@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RepasoParcial</string>
+    <string name="tvLogo">Smart App</string>
+    <string name="tvCorreo">Ingrese su correo electrónico</string>
+    <string name="tvContraseña">Ingrese su clave</string>
+    <string name="btnIngresar">"Ingresar "</string>
+    <string name="tvOpciones">"Opciones "</string>
+    <string name="btnGeneraciones">Generaciones</string>
+    <string name="btnSigno">Signo Zodiacal</string>
+    <string name="btnIMC">IMC</string>
+    <string name="btnRegresar">Regresar</string>
+    <string name="tvTituloIMC">IMC</string>
+    <string name="tvPeso">Ingrese su peso (En kg)</string>
+    <string name="tvEstatura">Ingrese su estatura (en metros)</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="btnMenuPrincipal">Regresar al menu principal</string>
+    <string name="tvNothing" />
+    <string name="tvIngreseFech">Ingrese su fecha de nacimiento</string>
+    <string name="btnConsultar">Consultar</string>
+</resources>
